@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/byxx.groovy" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/MdBean/ExampleMdBean.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/Remote/ExampleLocal.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/Remote/ExampleRemote.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/SessionBean/Example2Bean.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/SessionBean/ExampleBean.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/interceptor/Interceptor.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/session/webservice/ExampleWeb.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/utils/CommImpDaoInterface.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/utils/CommOpDaoImp.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/utils/Dual.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/utils/EjbBasicDAO.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/utils/EjbProxy.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/com/byxx/gtz/utils/ExampleJson.java" charset="GB2312" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

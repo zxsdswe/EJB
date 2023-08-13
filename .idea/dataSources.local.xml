@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="@10.166.81.154" uuid="6927cb6d-47f1-46e5-ab65-a5229df1960e">
+      <database-info product="Oracle" version="Oracle Database 11g Enterprise Edition Release 11.2.0.1.0 - 64bit Production&#10;With the Partitioning, OLAP, Data Mining and Real Application Testing options" jdbc-version="11.1" driver-name="Oracle JDBC driver" driver-version="11.1.0.7.0-Production">
+        <extra-name-characters>$#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>gz_tdmskd</user-name>
+      <introspection-schemas>*:GZ_TDMSKD</introspection-schemas>
+    </data-source>
+  </component>
+</project>

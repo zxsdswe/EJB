@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JPA 2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jar/wlfullclient_11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
